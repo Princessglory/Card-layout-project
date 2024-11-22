@@ -1,6 +1,6 @@
 # Responsive Card Layout
 
-## This project is a responsive card layout built with HTML and CSS ,the layout adjusts to different screen sizes due to the use of Flexbox. Each card on the design contains a title, a description,and an image.  
+## This project is a responsive card layout built with HTML and CSS ,the layout adjusts to different screen sizes due to the use of Flexbox. Each card on the design contains a title, a description, and an image.  
 
 ## Features
  - Responsive Design: The card rearrange based on screen size.
